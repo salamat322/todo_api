@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5015692f-0e1f-41dd-9723-362f15f82c98" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/django_todo_api/requirements.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_todo_api/tags/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/django_todo_api/tags/tests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_todo_api/tasks/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/django_todo_api/tasks/tests.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/django_todo_api" />
+  </component>
+  <component name="ProjectId" id="1YvUr9MeylXFsUMiYSJabfX5kKY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/PycharmProjects/todo1" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5015692f-0e1f-41dd-9723-362f15f82c98" name="Default Changelist" comment="" />
+      <created>1583822757425</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583822757425</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="423" y="249" width="424" height="479" key="FileChooserDialogImpl" timestamp="1583823352760">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="423" y="249" width="424" height="479" key="FileChooserDialogImpl/0.0.1280.984@0.0.1280.984" timestamp="1583823352760" />
+    <state x="293" y="318" key="com.intellij.ide.util.TipDialog" timestamp="1583823342815">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="293" y="318" key="com.intellij.ide.util.TipDialog/0.0.1280.984@0.0.1280.984" timestamp="1583823342815" />
+  </component>
+</project>
